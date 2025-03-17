@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+52
+'Bienvenido Señor usuario, por favor digite su edad'
+5
+1
+4
+edad
+4
+1
+36
+'Ahora digite el valor de su compra'
+5
+1
+6
+compra
+7
+0
+1
+7
+edad>50
+4
+1
+32
+'Su total a pagar es de ',compra
+13
+6
+2
+4
+desc
+15
+(compra*10)/100
+5
+valor
+11
+compra-desc
+4
+1
+33
+'Su total a pagar es de: ' ,valor
+13
+1

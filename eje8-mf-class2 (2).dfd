@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+88
+'Bienvenido, señor usuario, por favor ingresar cuantos militros de perfume va a comprar'
+5
+1
+2
+ml
+6
+3
+1
+P
+7
+ml*4500
+3
+iva
+6
+P*0.19
+5
+pagar
+5
+P+iva
+4
+1
+47
+'Señor usuario su valor a pagar es de: ' ,pagar
+1

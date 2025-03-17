@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+77
+'Señor usuario, por favot, digite el numero de su boleta para ganar una rifa'
+5
+1
+7
+numero 
+7
+0
+1
+21
+numero>0 and numero<1
+4
+1
+48
+'Numero invalido, por favor ingrese otro numero'
+13
+7
+0
+1
+21
+numero=7 or numero=43
+4
+1
+19
+'¡sigue intentado!'
+13
+4
+1
+39
+'¡Felicidades! acabas de ganar la rifa'
+13
+13
+1

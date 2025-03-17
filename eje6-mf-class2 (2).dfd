@@ -1,0 +1,25 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+76
+'Señor usuario, por favor introduzca la cantidad de tazas de cafe que desea'
+5
+1
+6
+TazasC
+6
+1
+5
+total
+12
+12000*TazasC
+4
+1
+28
+'el total a pagar es:',total
+1
